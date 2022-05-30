@@ -1,0 +1,310 @@
+https://www.kaggle.com/c/birdclef-2021/discussion/230000
+
+## https://www.kaggle.com/stefankahl/birdclef2021-exploring-the-data
+- Domain shift: It is important to note that the training data contains more classes than there are species annotated in the test data. However, 
+the training data only contains species that are likely to occur at the test data recordings sites.
+
+- "secondary_labels"(secondary_labels): Missing labels - The data field “seconday_labels” contains lists of eBird codes (i.e., primary labels) that recordists annotated. 
+It is important to note that these lists might be incomplete. Therefore, lists of secondary labels are not very reliable, but they might still be useful 
+for multi-label training (e.g., through loss masking for background species).
+
+# Location and date: In combination with the recording data (data field “date”), this information can be very useful to map distribution and migration patterns.
+
+# Rating: Overall, the training data contains high-quality recordings and the majority of samples is rated with 3.5 or higher. 
+Sub-sampling training data based on user rating might help to extract high-quality training samples.
+
+################################################ EDA ################################################
+- df_tra_meta has 62874 rows, 397 primary_labels
+- df_less_than30s has 27740 rows, 397 primary_labels
+- print(df_tra_meta['duration'].describe())
+    count    62874.000000
+    mean        56.255305
+    std         74.042363
+    min          5.958125
+    25%         18.378250
+    50%         34.260688
+    75%         66.205000
+    max       2745.352937
+- print(df_tra_meta['rating'].value_counts())
+    4.0    14393
+    5.0    13410
+    3.5    10660
+    4.5    10423
+    3.0     5009
+    2.5     3484
+    0.0     3334  # this particular recording does not have a rating, and it is by that the fallback value.
+    2.0     1121
+    1.5      674
+    1.0      212
+    0.5      154
+- df_label_counts is:
+       all_pri_counts  30s_pri_counts  30s_pri_ratio  all_sec_counts  30s_sec_counts
+count      397.000000      397.000000     397.000000      397.000000      397.000000
+mean       158.372796       69.874055       0.463518      126.911839       27.755668
+std        105.693535       47.562444       0.137497      206.869719       47.947607
+min          8.000000        4.000000       0.170213        0.000000        0.000000
+25%         87.000000       39.000000       0.364000       22.000000        5.000000
+50%        132.000000       58.000000       0.450000       52.000000       12.000000
+75%        196.000000       86.000000       0.544776      147.000000       31.000000
+max        500.000000      334.000000       0.835616     1475.000000      436.000000
+
+- Need convert 'rocpig1' to 'rocpig' in 'secondary_labels'
+
+- train_metadata:
+    - Focal recordings for 'primary_label'
+    - Directly for training: primary_label secondary_labels filename duration
+    - TBD for training: type latitude longitude date time rating
+    - As reference: url
+    - Useless: scientific_name common_name author license
+- train_soundscapes: 
+    - Quite Comparable to the test set!
+    - Including location COR, SSW, which also included in test set; 
+    - 20 * 10 minutes ogg files; 
+    - Labelled with 5s window, mostly nocall, only have 48 birds: total 2400 rows, wiht 1529 nocall, 1183 labels
+- test_soundscapes: 
+    - Test set, will provide 80 soundscapes ogg files for test
+    - Provided info: recorded date and location.
+    - Total locations: COL, COR, SNE, SSW
+
+################################################ Challenges ################################################
+1. Noisy label:
+    - How to crop chunks with clean/correct labels, as training samples are weak labelled and have different durations(from 6s to 46 minutes)
+    - - My solution: crop based on model prediction and train_metadata.csv
+    - Missing labels, as pointed by hoster(https://www.kaggle.com/stefankahl/birdclef2021-exploring-the-data#2.-Background-species)
+    - - My solution: Pseudo labeling with least confirmation bias
+2. Domain shift:
+    - Detailed description from hoster: https://www.kaggle.com/stefankahl/birdclef2021-exploring-the-data#Training-data-(Soundscapes)
+    - Train short audios are from "Focal recordings": https://www.kaggle.com/stefankahl/birdclef2021-exploring-the-data?scriptVersionId=58465937&cellId=1 
+    - Test soundscapes audios are manually annotated by experts with bounding boxes around calls + conversion process(bounding boxes to segment labels):
+      https://www.kaggle.com/c/birdclef-2021/discussion/232645#1274546
+    - Train_soundscapes could be used as validation or training, to relief domain shift issue. But not 100% representative as not all species of test data 
+      are in train_soundscapes, recording equipment might differ.
+    - My solution: 
+        - Use train_soundscapes for validation
+        - Use 'nocall' of train_soundscapes for training augmentation
+        - Use lables of train_soundscapes for training(from hoster: Be aware that training with soundscape data for a few species 
+          might introduce unwanted biases when overfitting to one recording site.)
+        - Training augmentation based on analyze between train_short_audio and train_soundscapes
+3. Imbalanced dataset
+
+################################################ My approach I ################################################
+l. Bootstrap stage: training with hard-confident(high-quality) labels
+    1.1 Train bootstrap_model_a with duration <= 30s ogg files:
+        - Not PANNs model, as don`t need framesie output
+        - Both primary_label and secondary_labels as hard label, no label smoothing
+        - Single model(no cross-validation) + validating on train_soundscapes + Mixup
+    1.2 Use bootstrap_model_a and train_metadata to generate hard-confident labels on duration>30s ogg files;
+    1.3 Train bootstrap_model_b with duration <= 30s ogg files + generated hard-confident labelled chunks from 1.2:
+        - PANNs model
+        - Label smoothing on secondary labels?
+        - 4 folds cross-validation + validating on train_soundscapes + Mixup + Augmentations
+    1.4 Generate hard-confident labels with bootstrap_model_b and train_metadata
+
+2. Pseudo labelling stage:
+    2.1 Generate soft-pseudo labels with bootstrap_model_b;
+    2.2 Train pseudo_label_model_x with hard-confident labels + generated soft-pseudo labels(50% each):
+        - PANNs model
+        - Label smoothing on secondary labels?
+        - 4 folds cross-validation + validating on train_soundscapes + Mixup + Augmentations
+        - Submit and get L.B score
+    2.3 Generate hard-confident labels + soft-pseudo labels with modeles from 2.2
+    2.4 Repeat 2.2 and 2.3 until L.B does not improve
+
+# Generate hard-confident labels strategy:
+- Rules: 
+    - Intention is to get more accurate/clean crop
+    - Keep diversity(each ogg file can get at least one crop)
+    - Don`t introduce more imblance
+- Predicted probability could be rough, so set to hard label(0/1) with more confidence is better
+- Missing labels will be addressed by Pseudo labelling stage, so if found high probability missing label here, mask it is better.
+- If 'gen_confident_labels' of df_gen_hard_labels.csv has no 1(confident label), then throw this row.
+- How to set target value
+|----------------------------------------------------------------------------------------------------------------------------------|
+|                           |                           Predicted probability                                                      |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+|    Labels IN ogg pri&sec  | <=0.5, set target to 0 | > 0.5, set target to 1                                                      |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| Labels NOT IN ogg pri&sec | <=0.5, set target to 0 | > 0.5, means probably it`s missing label here, set target to 0.5(as mask)   |
+|----------------------------------------------------------------------------------------------------------------------------------|
+
+- NOTICE 'casvir' got much less generated hard labels than original pri_labels in df_label_counts.csv!!!
+
+
+# Generate Pseudo labels stagtegy:
+- TODO
+
+# Key: 
+    - Ensure quality of hard-confident labels
+    - Whether to use 5s models and how? PANNs` model or gradually reduce from 30s to 5s?
+    
+# TBD:
+    - Use 'rating' for hard-confident labels generating?
+    - Use PANNs model or normal CNN?
+    - Use 5s input model in pseudo labelling stage or not, and how?
+    - How to do 2.3?
+    - Whether use train_soundscapes for training and when?
+    - How to use location and date info? Train a tree model to assit on hard-confident labels generating, or assit on classification?
+
+# To try: 
+- TTA
+- Energy trimming
+- Multi-Sample Dropout (https://www.kaggle.com/vladimirsydor/4-th-place-solution-inference-and-training-tips?scriptVersionId=42796948#Multi-Sample-Dropout)
+- extra channels of CNN - Logmel + 1st order delta + 2nd order delta, or Logmel + PCEN + ...,
+  as https://www.kaggle.com/c/birdsong-recognition/discussion/183339
+- Catalyst or Pytorch Lightning
+
+################################################ Reference ################################################
+## 1st place solution of Cornee Birdcall: https://www.kaggle.com/c/birdsong-recognition/discussion/183208
+- SED model, with 30s random cropping
+- [TBD]: Voting + threshold based blending
+
+## 2nd place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183269, https://github.com/vlomme/Birdcall-Identification-competition
+- Not SED model
+- Manually went through 20 thousand training files and deleted large segments without the target bird!!!
+- [TBD] Saved the Mel spectrograms to speed up training
+- [***] Used BCEWithLogitsLoss. For the main birds, the label was 1. For birds in the background 0.3.
+- [***] I didn't look at metrics on training records, but only on validation files similar to the test sample.
+- [***] Mix sound: I mixed 1 to 3 file
+- [TBD] Raised the image to a power of 0.5 to 3
+- [***] All models gave similar quality, but the best was efficientnet-b0, resnet50, densenet121. Large networks worked slightly worse than small ones.
+- [***] image_size = 224*448
+
+## 3rd place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183199, https://github.com/TheoViel/kaggle_birdcall_identification
+- Not SED model
+- Used external datasets!
+- [TBD] Improved cropping: https://www.kaggle.com/c/birdsong-recognition/discussion/183199#1016708
+- [TBD] Background noise
+- [***] Modified Mixup
+
+## 4th place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183339
+- Not SED model
+- Used external xeno-canto datasets!
+- [TBD] Energy trimming based cropping: https://www.kaggle.com/vladimirsydor/4-th-place-solution-inference-and-training-tips?scriptVersionId=42796948&cellId=50
+- [TBD] 3 channels input: Logmel + 1st order delta + 2nd order delta
+- [TBD] Multi-Sample dropout: https://www.kaggle.com/vladimirsydor/4-th-place-solution-inference-and-training-tips?scriptVersionId=42796948&cellId=49, https://arxiv.org/pdf/1905.09788.pdf
+
+## 5th place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183300
+- SED model, with long random cropping
+- [TBD] Energy based cropping, by soft(random sampling based on energy) or hard(removing everything below normalized energy threshold)
+- [TBD] Pesudo label based cropping for Primary label
+- [TBD] Label smoothing for Secondary labels
+- [!!!] SED attention head on top of effnet does not generalized well on 5s chunk, as receptive field is too big. https://www.kaggle.com/c/birdsong-recognition/discussion/183300#1015242
+
+## 6th place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183204
+- [TBD] Missing label finding
+
+## 8th place solution: https://www.kaggle.com/c/birdsong-recognition/discussion/183223
+- SED model
+- Used external xeno-canto datasets!
+- Train with only primary is not good
+- Random crop 5s, mixed sound augmentations will be applied to audios with no secondary labels, labels for audio with secondary labels will be adjusted according to pseudo strong labels.
+- [***] Mix sound: Mix the clips from audios with no secondary labels, to get more samples with more than one bird:
+                   mixed_sound=sound1*uniform(0.8,1.2)+sound2*uniform(0.8,1.2)+sound3*uniform(0.8,1.2)
+
+## 18th place solution(CPMP) of Cornell Birdcall: https://www.kaggle.com/c/birdsong-recognition/discussion/183219
+# Noisy labels fixing:
+- [***] Training data crop: first 5s or last 5s of clips
+- [***] Secondary labels: Mask loss for secondary labels, as secondary labesl are more noisy
+- [TBD] Add public freefield1010 clips that were labelled as nocall to training data, and add an extra class of 'nocall'. (probably the most important single improvement)
+# Domain shift fixing:
+- [***] Multi Bird Clips: Mixup as target for the merged clip is the maximum of the targets of each merged clip, to have more multi-label training data.
+# Imbalance data fixing:
+- [TBD] Class Weights: Use class weights inversely proportional to class frequencies, for the nocall class we set it to 1 
+                       even though it was way more frequent than each bird classes to make sure the model learns about nocall correctly.
+# Others:
+- [***] Resize input image as twice size of effnet, like 240x480 for effnet b1, 260x520 for effnet b2
+- We added noise extracted from the two test sequences made available
+- [TBD] Efficient Time and pitch variations: modify the length of the clipped sequence, and modify the sampling rate, without modifying the data itself.
+
+################################################ My approach II ################################################
+## Data preprocess
+- [Baseline] MelSpectrogram -> ToDB -> mono_to_color -> Normalize; as 2nd, 8th, 18th
+- [Baseline] Saved the Mel spectrograms to speed up training, as 2nd
+
+## Model: 
+- [Baseline] Not SED model with backbone rexnet-100/efficientnet_b0
+- [TODO] rexnet-150/200, efficientnet-b1/b3 backbone
+
+## Loss function:
+- [Baseline] BCEWithLogitsLoss
+- [Done] Class Weights for imbanlaced data issue, as 18th
+
+## Validation:
+- [Baseline] Only on train_soundscapes, as noisy labels reason on train_short_audio
+
+## Noisy labels fixing:
+# Cropping:
+- [Baseline] 5s crop from first or last of clips
+- [TBD] Improved cropping based on pseudo labels, as 3rd
+- [Done] Energy trimming based cropping, as 4th  # +0.03 L.B
+- - [Done] MelEnergyTrim, ignore <300Hz(XC360988, XC137610 as example)  # C.V -0.002, L.B no change
+- - [TODO] How to energy trim XC372211.ogg, XC313916.ogg, XC291935.ogg like case, most powerful segment is noisy spike.
+           How to handle XC551690.ogg, XC186851.ogg like case, birdcall is weak, energy trim would select empty part most likely.
+           How to handle XC535046.ogg like case, long duration file, 
+- - [Done] fmin=250 in training mel_spec, and 500 for MelEnergyTrim.  # 'grhowl' bird`s freq is around 250!!!
+- - [Done] XC328921.ogg, possible to crop all-0 chunk, how to handle?
+- - - Manually modified 188 files with silent-seg, C.V -0.01, L.B no change
+
+# Secondary labels:
+- [Baseline] Set targe value to 0.3, as 2nd
+- [Done] Label smoothing, Masked loss
+ 
+# Missing label issue:
+- [TODO] As 6th, or try pseudo labelling
+
+## Domain shift fixing:
+# [Done] Mix sound as 2nd, 8th and 18th; or modified mixup from 3rd
+- - Mixup 3rd: +0.05 L.B
+- - Mixup 2nd: +0.05 L.B, longer training time
+
+## Augmentations:
+# [Done] Raised the image to a power of 0.5 to 3, as 2nd
+- - Original params: 0.5-3.5 before and 0.7-2.7 after power_to_db: +0.02 L.B
+- - 0.7-2.7 Only after power_to_db: +0 L.B
+- - 0.5-3.5 Only after power_to_db: +0 L.B
+- [TBD] Understand why twich RandomPower() is better, and why it get L.B improve
+- [TODO] Time/Pitch shift in waveform
+
+# [Done] Background noise, as 2nd
+- - Add BG noise same as 2nd, 1/3 full BG + 2/3 partial BG: +0.02 L.B
+- - Add BG noise with 1/4 no BG + 1/4 full BG + 1/2 partial BG: -0.02 CV
+- [Done] More BG noise file; Optimize add BG speed; 
+- [Done] Add human speech like XC216404.ogg; Add more xishuai; Gunshot; 
+
+# [TODO] 3 channels input: Logmel + 1st order delta + 2nd order deltaj, as 4th; Or Logmel + PCEN + power_to_db(melspec ** 1.5), as 6th;
+# [TODO] Add public freefield1010 clips that were labelled as nocall to training data, maybe need use along with class weights, as 18th. Add human speech
+# [Done] Efficient Time and pitch variations, as 18th
+# [Done] With a probability of 0.5 lowered the upper frequencies, as 2nd
+# [Done] Add white/pink/bandpass noise, as 2nd
+
+## Ensemble:
+# [Baseline] Simple average
+# [TODO] Voting + threshold, as 1st
+
+## Misc
+# [TODO] Multi-Sample dropout, as 4th
+
+
+## Plan with Priority: Data > Model > Hyperparameters
+# Done: Baseline(0.54) -> Energy trim cropping(0.57) -> Mix sound(0.62) -> Random Power(0.64) -> Add Background noise(0.66) -> Audios sanity check(0.67) ->
+        lowered the upper frequencies(0.66) -> Detect silent seg and manually remove(0.67) -> Add more BG(0.65) -> fmin 200/500 for training/MelEnergyTrim(0.64) ->
+        Class Weights(pos_weights not good, class_weights TBD with 'nocall' class) -> Mask/LabelSmoothing for secondary labels(not good, with Mix sound) ->
+        Add pink/bandpass noise(Precision increase, but Recall drop) -> Time/pitch variation(not good) -> Add 'nocall' class with freefield1010 dataset(0.68) ->
+        make t-probs as Energy + Pseudo-Labels(Good) ->
+# TODO: 3 channels input -> Multi-Sample dropout -> other backbone -> 
+        Pseudo labelling for missing labels -> Voting + threshold ensembling
+
+
+## Model II:
+# Same:
+    Energy + pseudo probs crop;
+    Mix up on GPU
+
+# Different:
+    Backbone
+    32K sample rate, different hop_size, window size, fmin 200
+    STFT, LogMel on GPU wiht torchlibrosa;
+    Aug: Time stretch, pitch shift, Add BG noise, Gaussain Noise/pink noise on waveform
+    Multi-Sample dropout
+    3 channels input;
+

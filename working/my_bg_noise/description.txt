@@ -1,0 +1,44 @@
+grep -rsiw airplane | grep -vi bird | tee grep_airplane_without_bird.txt
+grep -rsiw nature | grep -vi bird | tee grep_nature_without_bird.txt
+grep -rsiw cock | grep -vi bird | tee grep_cock_without_bird.txt
+grep -rsiw dog | grep -vi bird | tee grep_dog_without_bird.txt
+
+grep -rsvi bird | tee grep_all_without_bird.txt
+
+grep -rsiw -e airplane -e nature -e wind -e dog -e cock -e cricket -e rain -e thunder -e water | grep -vi bird | tee grep_selected_WithoutBird.txt
+
+# Background From 2782_SSW_20170701.ogg: rain drop, train from far away
+# 7019_COR_20190904.ogg: dog barking, 鸡叫，蟋蟀
+# 7843_SSW_20170325.ogg: rain drop, airplane, 公路汽车，
+# 7954_COR_20190923.ogg： Don`t know how to describe, 低频噪音，粉噪
+# 10534_SSW_20170429: 低频噪音，粉噪
+# 11254_COR_20190904： 流水，人的咳嗽，蟋蟀
+# 14473_SSW_20170701： Heavy rain, 
+# 18003_COR_20190904: 警报，airplane(低频)
+# 20152_SSW_20170805： 粉噪， rain drop（sudden）, airplane(低频)
+# 21767_COR_20190904： 低频噪音，粉噪，摩托车，鸡叫
+# 26709_SSW_20170701： rain drop（sudden）, 粉噪, 低频噪音
+# 26746_COR_20191004： airplane(低频)
+# 28933_SSW_20170408： airplane(低频)， rain drop
+# 31928_COR_20191004: 蟋蟀, 低频噪音
+# 42907_SSW_20170708(很吵): 粉噪, 蟋蟀
+# 44957_COR_20190923： 粉噪， 低频噪音
+# 50878_COR_20191004： 粉噪(底噪)
+# 51010_SSW_20170513： 粉噪(底噪)
+# 54955_SSW_20170617： 粉噪(底噪)，低频噪音
+# 57610_COR_20190904： 粉噪(底噪)， 流水
+
+- 粉噪(底噪) x11
+- 低频噪音 x7
+- airplane(低频) x5
+- rain drop x 5
+- 蟋蟀（类似） x4
+- 鸡叫 x2
+- 流水 x2
+- Heavy rain x 1
+- 摩托车 x 1
+- 警报 x1
+- 人的咳嗽 x1
+- 公路汽车 x1
+- dog barking x1
+- train x1

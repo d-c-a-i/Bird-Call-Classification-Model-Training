@@ -1,0 +1,739 @@
+Quiet file: XC395622.ogg, dBFS is -66.6
+Quiet file: XC349955.ogg, dBFS is -67.4
+Quiet file: XC564846.ogg, dBFS is -65.2
+Quiet file: XC267510.ogg, dBFS is -65.3
+Quiet file: XC572833.ogg, dBFS is -67.1
+Quiet file: XC153315.ogg, dBFS is -68.2
+Quiet file: XC153278.ogg, dBFS is -66.8
+Quiet file: XC504994.ogg, dBFS is -71.3
+Quiet file: XC202025.ogg, dBFS is -66.2
+Silent file: XC208852.ogg, dBFS is -75.7
+Silent file: XC208883.ogg, dBFS is -99.4
+Quiet file: XC535268.ogg, dBFS is -71.1
+Quiet file: XC535271.ogg, dBFS is -65.3
+Quiet file: XC564372.ogg, dBFS is -66.3
+Quiet file: XC535041.ogg, dBFS is -66.4
+Quiet file: XC535160.ogg, dBFS is -71.8
+Silent file: XC579430.ogg, dBFS is -inf
+Quiet file: XC535153.ogg, dBFS is -68.1
+Silent file: XC534949.ogg, dBFS is -75.3
+Quiet file: XC526706.ogg, dBFS is -66.0
+Silent file: XC282102.ogg, dBFS is -116.3
+Quiet file: XC535180.ogg, dBFS is -68.8
+Quiet file: XC372211.ogg, dBFS is -71.6
+Silent file: XC603890.ogg, dBFS is -77.6
+Quiet file: XC501496.ogg, dBFS is -68.6
+Quiet file: XC551690.ogg, dBFS is -73.8
+Quiet file: XC488506.ogg, dBFS is -71.3
+Quiet file: XC535054.ogg, dBFS is -68.9
+Quiet file: XC535057.ogg, dBFS is -69.4
+Silent file: XC535073.ogg, dBFS is -77.6
+Quiet file: XC535078.ogg, dBFS is -72.5
+Quiet file: XC535079.ogg, dBFS is -66.5
+Quiet file: XC535080.ogg, dBFS is -68.5
+Quiet file: XC535086.ogg, dBFS is -73.4
+Quiet file: XC535088.ogg, dBFS is -69.8
+Quiet file: XC535089.ogg, dBFS is -69.8
+Silent file: XC580627.ogg, dBFS is -98.7
+Quiet file: XC535090.ogg, dBFS is -71.5
+Silent file: XC535091.ogg, dBFS is -82.7
+Quiet file: XC581305.ogg, dBFS is -65.5
+Silent file: XC439459.ogg, dBFS is -104.9
+Silent file: XC284190.ogg, dBFS is -79.0
+Quiet file: XC535195.ogg, dBFS is -68.8
+Quiet file: XC535196.ogg, dBFS is -67.0
+Quiet file: XC358508.ogg, dBFS is -70.5
+Quiet file: XC433333.ogg, dBFS is -71.2
+Quiet file: XC457489.ogg, dBFS is -67.3
+Quiet file: XC263153.ogg, dBFS is -65.6
+Quiet file: XC349803.ogg, dBFS is -65.7
+Quiet file: XC535260.ogg, dBFS is -67.3
+Quiet file: XC544809.ogg, dBFS is -65.4
+Quiet file: XC439536.ogg, dBFS is -65.4
+Quiet file: XC535151.ogg, dBFS is -65.6
+Quiet file: XC185594.ogg, dBFS is -70.5
+Silent file: XC141187.ogg, dBFS is -105.5
+Quiet file: XC536604.ogg, dBFS is -67.8
+Quiet file: XC535046.ogg, dBFS is -66.9
+Quiet file: XC535047.ogg, dBFS is -68.1
+Quiet file: XC535048.ogg, dBFS is -67.2
+Quiet file: XC488399.ogg, dBFS is -67.0
+Quiet file: XC297670.ogg, dBFS is -73.6
+Quiet file: XC260596.ogg, dBFS is -72.6
+Quiet file: XC255363.ogg, dBFS is -65.2
+Silent file: XC469985.ogg, dBFS is -80.2
+Quiet file: XC541381.ogg, dBFS is -66.2
+Quiet file: XC314245.ogg, dBFS is -69.3
+Quiet file: XC540337.ogg, dBFS is -65.7
+Quiet file: XC326247.ogg, dBFS is -66.5
+Quiet file: XC535204.ogg, dBFS is -65.3
+Quiet file: XC431962.ogg, dBFS is -73.3
+Quiet file: XC535303.ogg, dBFS is -65.7
+Silent file: XC535306.ogg, dBFS is -76.5
+Quiet file: XC535309.ogg, dBFS is -71.7
+Silent file: XC590621.ogg, dBFS is -inf
+Quiet file: XC186856.ogg, dBFS is -67.6
+Quiet file: XC313916.ogg, dBFS is -66.0
+Quiet file: XC314242.ogg, dBFS is -65.8
+Quiet file: XC330636.ogg, dBFS is -65.2
+Quiet file: XC323895.ogg, dBFS is -65.6
+Quiet file: XC567735.ogg, dBFS is -65.6
+Quiet file: XC181332.ogg, dBFS is -70.2
+Quiet file: XC294960.ogg, dBFS is -65.1
+Quiet file: XC386080.ogg, dBFS is -71.3
+Quiet file: XC457490.ogg, dBFS is -66.7
+Quiet file: XC518412.ogg, dBFS is -65.3
+Quiet file: XC295936.ogg, dBFS is -65.3
+Quiet file: XC137599.ogg, dBFS is -72.2
+Quiet file: XC182574.ogg, dBFS is -68.5
+Quiet file: XC182575.ogg, dBFS is -68.5
+Quiet file: XC286524.ogg, dBFS is -72.9
+Quiet file: XC345898.ogg, dBFS is -65.1
+Quiet file: XC304675.ogg, dBFS is -65.0
+Quiet file: XC360236.ogg, dBFS is -70.2
+Quiet file: XC291935.ogg, dBFS is -66.0
+Quiet file: XC314041.ogg, dBFS is -67.0
+Quiet file: XC356012.ogg, dBFS is -72.1
+Quiet file: XC549227.ogg, dBFS is -68.2
+Quiet file: XC186851.ogg, dBFS is -65.2
+Quiet file: XC330469.ogg, dBFS is -65.2
+Quiet file: XC389891.ogg, dBFS is -68.1
+Quiet file: XC244402.ogg, dBFS is -69.1
+Quiet file: XC360237.ogg, dBFS is -70.6
+Quiet file: XC431935.ogg, dBFS is -70.7
+Silent file: XC141034.ogg, dBFS is -105.5
+Quiet file: XC536417.ogg, dBFS is -68.2
+Quiet file: XC538087.ogg, dBFS is -66.8
+Quiet file: XC551196.ogg, dBFS is -66.5
+Quiet file: XC551981.ogg, dBFS is -72.6
+Quiet file: XC553534.ogg, dBFS is -69.2
+Silent file: XC154485.ogg, dBFS is -86.4
+Quiet file: XC256082.ogg, dBFS is -69.4
+Quiet file: XC358509.ogg, dBFS is -73.7
+Quiet file: XC305164.ogg, dBFS is -67.5
+Quiet file: XC372263.ogg, dBFS is -69.1
+
+
+[{'quiet_files': ['XC153315.ogg', 'XC535041.ogg', 'XC372211.ogg', 'XC535260.ogg', 'XC536417.ogg', 'XC538087.ogg', 'XC551196.ogg', 'XC551981.ogg', 'XC553534.ogg'], 'silent_files': []}, 
+ {'quiet_files': ['XC564846.ogg', 'XC572833.ogg', 'XC535180.ogg', 'XC535195.ogg', 'XC535196.ogg', 'XC326247.ogg', 'XC304675.ogg', 'XC360236.ogg'], 'silent_files': ['XC603890.ogg']}, 
+ {'quiet_files': ['XC358508.ogg', 'XC345898.ogg', 'XC330469.ogg', 'XC256082.ogg'], 'silent_files': []}, 
+ {'quiet_files': ['XC488506.ogg', 'XC535054.ogg', 'XC535057.ogg', 'XC535078.ogg', 'XC535079.ogg', 'XC535080.ogg', 'XC535086.ogg', 'XC535088.ogg', 'XC535089.ogg', 'XC535090.ogg', 'XC330636.ogg', 'XC457490.ogg', 'XC291935.ogg', 'XC314041.ogg', 'XC356012.ogg', 'XC549227.ogg', 'XC305164.ogg', 'XC372263.ogg'], 'silent_files': ['XC579430.ogg', 'XC535073.ogg', 'XC535091.ogg']},
+ {'quiet_files': ['XC504994.ogg', 'XC544809.ogg', 'XC431962.ogg', 'XC535303.ogg', 'XC535309.ogg', 'XC137599.ogg', 'XC182574.ogg', 'XC182575.ogg'], 'silent_files': ['XC469985.ogg', 'XC535306.ogg']},
+ {'quiet_files': ['XC349955.ogg', 'XC457489.ogg', 'XC313916.ogg', 'XC314242.ogg', 'XC181332.ogg', 'XC518412.ogg'], 'silent_files': ['XC590621.ogg']},
+ {'quiet_files': ['XC267510.ogg', 'XC535153.ogg', 'XC263153.ogg', 'XC536604.ogg', 'XC260596.ogg', 'XC540337.ogg', 'XC567735.ogg', 'XC286524.ogg', 'XC389891.ogg'], 'silent_files': ['XC141034.ogg']}, 
+ {'quiet_files': ['XC564372.ogg', 'XC433333.ogg', 'XC535151.ogg', 'XC488399.ogg', 'XC323895.ogg', 'XC295936.ogg', 'XC360237.ogg', 'XC431935.ogg'], 'silent_files': []}, 
+ {'quiet_files': ['XC202025.ogg', 'XC526706.ogg', 'XC439536.ogg', 'XC535204.ogg', 'XC186856.ogg', 'XC294960.ogg', 'XC386080.ogg'], 'silent_files': ['XC208852.ogg', 'XC208883.ogg', 'XC284190.ogg']}, 
+ {'quiet_files': ['XC535160.ogg', 'XC297670.ogg', 'XC314245.ogg'], 'silent_files': []}, 
+ {'quiet_files': ['XC349803.ogg', 'XC541381.ogg', 'XC358509.ogg'], 'silent_files': ['XC534949.ogg']}, 
+ {'quiet_files': ['XC395622.ogg', 'XC153278.ogg', 'XC535268.ogg', 'XC535271.ogg', 'XC501496.ogg', 'XC551690.ogg', 'XC581305.ogg', 'XC185594.ogg', 'XC535046.ogg', 'XC535047.ogg', 'XC535048.ogg', 'XC255363.ogg', 'XC186851.ogg', 'XC244402.ogg'], 'silent_files': ['XC282102.ogg', 'XC580627.ogg', 'XC439459.ogg', 'XC141187.ogg', 'XC154485.ogg']}]
+[Check quiet and silent files] DONE in 0:50:33
+
+
+#### Noisy part
+
+Noisy file: XC154089.ogg, dBFS is -12.7
+Super noisy file: XC484923.ogg, dBFS is -10.0
+Noisy file: XC209698.ogg, dBFS is -13.1
+Noisy file: XC342677.ogg, dBFS is -14.9
+Super noisy file: XC23518.ogg, dBFS is -9.5
+Super noisy file: XC254771.ogg, dBFS is -11.2
+Noisy file: XC285208.ogg, dBFS is -14.4
+Noisy file: XC154103.ogg, dBFS is -13.8
+Super noisy file: XC189671.ogg, dBFS is -9.9
+Noisy file: XC113408.ogg, dBFS is -14.6
+Noisy file: XC9686.ogg, dBFS is -13.8
+Noisy file: XC437631.ogg, dBFS is -14.8
+Super noisy file: XC215880.ogg, dBFS is -4.4
+Super noisy file: XC215883.ogg, dBFS is -5.3
+Super noisy file: XC215885.ogg, dBFS is -6.8
+Super noisy file: XC215886.ogg, dBFS is -6.5
+Super noisy file: XC215887.ogg, dBFS is -9.1
+Super noisy file: XC215917.ogg, dBFS is -4.9
+Noisy file: XC437099.ogg, dBFS is -14.9
+Noisy file: XC216235.ogg, dBFS is -12.9
+Noisy file: XC331588.ogg, dBFS is -12.8
+Super noisy file: XC216237.ogg, dBFS is -7.6
+Noisy file: XC216238.ogg, dBFS is -13.9
+Super noisy file: XC351209.ogg, dBFS is -10.6
+Super noisy file: XC433364.ogg, dBFS is -11.7
+Noisy file: XC282798.ogg, dBFS is -12.5
+Noisy file: XC282799.ogg, dBFS is -13.7
+Noisy file: XC192238.ogg, dBFS is -15.0
+Noisy file: XC551035.ogg, dBFS is -13.1
+Noisy file: XC551038.ogg, dBFS is -13.1
+Noisy file: XC551050.ogg, dBFS is -13.0
+Noisy file: XC189399.ogg, dBFS is -14.3
+Super noisy file: XC154104.ogg, dBFS is -9.3
+Noisy file: XC282627.ogg, dBFS is -14.1
+Noisy file: XC287593.ogg, dBFS is -13.2
+Noisy file: XC559690.ogg, dBFS is -12.8
+Noisy file: XC292088.ogg, dBFS is -14.7
+Noisy file: XC152767.ogg, dBFS is -12.2
+Super noisy file: XC153635.ogg, dBFS is -8.0
+Noisy file: XC205284.ogg, dBFS is -15.0
+Super noisy file: XC379655.ogg, dBFS is -10.5
+Noisy file: XC283536.ogg, dBFS is -12.7
+Noisy file: XC154573.ogg, dBFS is -14.4
+Noisy file: XC154785.ogg, dBFS is -12.1
+Noisy file: XC154798.ogg, dBFS is -12.6
+Noisy file: XC155354.ogg, dBFS is -14.5
+Noisy file: XC475292.ogg, dBFS is -12.5
+Noisy file: XC215893.ogg, dBFS is -14.0
+Super noisy file: XC215900.ogg, dBFS is -11.1
+Noisy file: XC215902.ogg, dBFS is -14.9
+Noisy file: XC215912.ogg, dBFS is -13.5
+Super noisy file: XC215915.ogg, dBFS is -5.6
+Super noisy file: XC156403.ogg, dBFS is -11.7
+Noisy file: XC215932.ogg, dBFS is -13.8
+Super noisy file: XC215934.ogg, dBFS is -9.0
+Noisy file: XC215935.ogg, dBFS is -14.2
+Noisy file: XC216048.ogg, dBFS is -13.2
+Super noisy file: XC216052.ogg, dBFS is -9.1
+Super noisy file: XC216068.ogg, dBFS is -10.2
+Noisy file: XC144874.ogg, dBFS is -14.1
+Noisy file: XC31284.ogg, dBFS is -13.1
+Super noisy file: XC152438.ogg, dBFS is -9.6
+Super noisy file: XC153628.ogg, dBFS is -6.2
+Super noisy file: XC216207.ogg, dBFS is -10.0
+Super noisy file: XC154444.ogg, dBFS is -9.4
+Noisy file: XC372023.ogg, dBFS is -14.3
+Super noisy file: XC216404.ogg, dBFS is -8.7
+Super noisy file: XC216406.ogg, dBFS is -8.4
+Super noisy file: XC232634.ogg, dBFS is -8.4
+Noisy file: XC209878.ogg, dBFS is -14.3
+Super noisy file: XC209879.ogg, dBFS is -11.7
+Noisy file: XC213426.ogg, dBFS is -12.6
+Super noisy file: XC216422.ogg, dBFS is -11.1
+Noisy file: XC11212.ogg, dBFS is -14.3
+Super noisy file: XC112903.ogg, dBFS is -11.6
+Noisy file: XC301669.ogg, dBFS is -13.2
+Super noisy file: XC152416.ogg, dBFS is -9.9
+Noisy file: XC324031.ogg, dBFS is -14.6
+Noisy file: XC357617.ogg, dBFS is -14.6
+Noisy file: XC168752.ogg, dBFS is -14.6
+Noisy file: XC435941.ogg, dBFS is -13.7
+Noisy file: XC154448.ogg, dBFS is -13.1
+Noisy file: XC420573.ogg, dBFS is -14.5
+Noisy file: XC554811.ogg, dBFS is -12.8
+Super noisy file: XC283284.ogg, dBFS is -9.2
+Noisy file: XC507340.ogg, dBFS is -14.9
+Super noisy file: XC177595.ogg, dBFS is -11.1
+Super noisy file: XC340052.ogg, dBFS is -10.0
+Noisy file: XC520429.ogg, dBFS is -14.5
+Noisy file: XC433498.ogg, dBFS is -13.8
+Noisy file: XC559917.ogg, dBFS is -13.8
+Super noisy file: XC107.ogg, dBFS is -8.3
+Super noisy file: XC372645.ogg, dBFS is -10.8
+Noisy file: XC372647.ogg, dBFS is -12.1
+Noisy file: XC128603.ogg, dBFS is -14.6
+Noisy file: XC343255.ogg, dBFS is -14.0
+Noisy file: XC126398.ogg, dBFS is -14.2
+Super noisy file: XC137808.ogg, dBFS is -9.3
+Noisy file: XC9881.ogg, dBFS is -14.7
+Noisy file: XC331633.ogg, dBFS is -13.6
+Super noisy file: XC331634.ogg, dBFS is -4.7
+Noisy file: XC118.ogg, dBFS is -14.7
+Noisy file: XC11501.ogg, dBFS is -14.4
+Super noisy file: XC185999.ogg, dBFS is -11.4
+Super noisy file: XC186004.ogg, dBFS is -9.5
+Noisy file: XC166644.ogg, dBFS is -13.9
+Super noisy file: XC347690.ogg, dBFS is -8.8
+Noisy file: XC403164.ogg, dBFS is -15.0
+Noisy file: XC334801.ogg, dBFS is -14.6
+Noisy file: XC334803.ogg, dBFS is -15.0
+Noisy file: XC204093.ogg, dBFS is -14.4
+Noisy file: XC238226.ogg, dBFS is -12.9
+Noisy file: XC266350.ogg, dBFS is -14.1
+Noisy file: XC309193.ogg, dBFS is -13.2
+Noisy file: XC414757.ogg, dBFS is -13.1
+Super noisy file: XC469623.ogg, dBFS is -10.8
+Noisy file: XC339944.ogg, dBFS is -13.8
+Super noisy file: XC354095.ogg, dBFS is -10.4
+Noisy file: XC476093.ogg, dBFS is -14.6
+Noisy file: XC376444.ogg, dBFS is -13.8
+Noisy file: XC16906.ogg, dBFS is -14.3
+Noisy file: XC376445.ogg, dBFS is -13.0
+Super noisy file: XC583496.ogg, dBFS is -5.8
+Noisy file: XC283702.ogg, dBFS is -14.5
+Super noisy file: XC548387.ogg, dBFS is -8.0
+Noisy file: XC549071.ogg, dBFS is -12.2
+Noisy file: XC31162.ogg, dBFS is -14.0
+Super noisy file: XC509561.ogg, dBFS is -10.8
+Noisy file: XC518685.ogg, dBFS is -13.9
+Noisy file: XC394893.ogg, dBFS is -13.5
+Noisy file: XC432766.ogg, dBFS is -14.8
+Noisy file: XC149429.ogg, dBFS is -14.3
+Super noisy file: XC154793.ogg, dBFS is -11.0
+Noisy file: XC435948.ogg, dBFS is -15.0
+Noisy file: XC216411.ogg, dBFS is -12.4
+Noisy file: XC376477.ogg, dBFS is -14.4
+Super noisy file: XC16949.ogg, dBFS is -11.6
+Noisy file: XC16952.ogg, dBFS is -14.9
+Noisy file: XC277524.ogg, dBFS is -12.4
+Noisy file: XC277525.ogg, dBFS is -14.4
+Super noisy file: XC382465.ogg, dBFS is -10.9
+Noisy file: XC289245.ogg, dBFS is -14.4
+Noisy file: XC404832.ogg, dBFS is -14.6
+Noisy file: XC176361.ogg, dBFS is -12.4
+Noisy file: XC457555.ogg, dBFS is -13.5
+Super noisy file: XC499705.ogg, dBFS is -11.7
+Super noisy file: XC457559.ogg, dBFS is -10.6
+Noisy file: XC457560.ogg, dBFS is -14.8
+Noisy file: XC457561.ogg, dBFS is -13.1
+Noisy file: XC457562.ogg, dBFS is -13.0
+Super noisy file: XC181943.ogg, dBFS is -10.6
+Noisy file: XC112990.ogg, dBFS is -14.5
+Noisy file: XC123773.ogg, dBFS is -14.7
+Noisy file: XC154060.ogg, dBFS is -12.8
+Super noisy file: XC6089.ogg, dBFS is -6.9
+Noisy file: XC144472.ogg, dBFS is -12.3
+Noisy file: XC145933.ogg, dBFS is -14.4
+Noisy file: XC118597.ogg, dBFS is -14.6
+Noisy file: XC145495.ogg, dBFS is -12.0
+Noisy file: XC253891.ogg, dBFS is -12.2
+Noisy file: XC253895.ogg, dBFS is -13.6
+Super noisy file: XC253900.ogg, dBFS is -11.2
+Super noisy file: XC253907.ogg, dBFS is -11.7
+Noisy file: XC246803.ogg, dBFS is -13.1
+Noisy file: XC423714.ogg, dBFS is -14.0
+Noisy file: XC144860.ogg, dBFS is -13.5
+Noisy file: XC251265.ogg, dBFS is -13.6
+Super noisy file: XC430563.ogg, dBFS is -9.6
+Noisy file: XC307946.ogg, dBFS is -14.3
+Super noisy file: XC205686.ogg, dBFS is -9.9
+Noisy file: XC313905.ogg, dBFS is -14.1
+Noisy file: XC315211.ogg, dBFS is -13.7
+Noisy file: XC557100.ogg, dBFS is -13.7
+Noisy file: XC389658.ogg, dBFS is -12.8
+Super noisy file: XC329623.ogg, dBFS is -11.0
+Super noisy file: XC361205.ogg, dBFS is -11.6
+Noisy file: XC367905.ogg, dBFS is -12.6
+Noisy file: XC153866.ogg, dBFS is -13.1
+Super noisy file: XC154451.ogg, dBFS is -3.9
+Noisy file: XC378362.ogg, dBFS is -14.2
+Super noisy file: XC205289.ogg, dBFS is -11.2
+Noisy file: XC277387.ogg, dBFS is -13.8
+Noisy file: XC282849.ogg, dBFS is -14.3
+Super noisy file: XC297964.ogg, dBFS is -11.2
+Noisy file: XC297973.ogg, dBFS is -14.1
+Noisy file: XC277917.ogg, dBFS is -13.3
+Super noisy file: XC581716.ogg, dBFS is -11.0
+Noisy file: XC614735.ogg, dBFS is -14.0
+Noisy file: XC167564.ogg, dBFS is -14.4
+Super noisy file: XC171042.ogg, dBFS is -6.8
+Noisy file: XC118592.ogg, dBFS is -13.6
+Super noisy file: XC233405.ogg, dBFS is -10.6
+Noisy file: XC238681.ogg, dBFS is -15.0
+Super noisy file: XC233406.ogg, dBFS is -11.9
+Noisy file: XC432455.ogg, dBFS is -14.0
+Noisy file: XC213564.ogg, dBFS is -13.3
+Noisy file: XC598073.ogg, dBFS is -14.2
+Noisy file: XC282248.ogg, dBFS is -14.9
+Noisy file: XC283549.ogg, dBFS is -14.4
+Noisy file: XC506644.ogg, dBFS is -14.9
+Noisy file: XC243.ogg, dBFS is -13.3
+Super noisy file: XC405871.ogg, dBFS is -8.6
+Super noisy file: XC405873.ogg, dBFS is -11.9
+Noisy file: XC190806.ogg, dBFS is -14.9
+Noisy file: XC396189.ogg, dBFS is -15.0
+Super noisy file: XC396190.ogg, dBFS is -10.8
+Noisy file: XC185847.ogg, dBFS is -13.6
+Noisy file: XC513208.ogg, dBFS is -14.9
+Noisy file: XC553236.ogg, dBFS is -14.7
+Super noisy file: XC493912.ogg, dBFS is -11.2
+Noisy file: XC494293.ogg, dBFS is -14.9
+Noisy file: XC182799.ogg, dBFS is -13.2
+Noisy file: XC613986.ogg, dBFS is -14.9
+Super noisy file: XC11760.ogg, dBFS is -8.6
+Noisy file: XC457203.ogg, dBFS is -13.0
+Noisy file: XC461439.ogg, dBFS is -13.3
+Super noisy file: XC153859.ogg, dBFS is -4.8
+Noisy file: XC144626.ogg, dBFS is -13.2
+Noisy file: XC253937.ogg, dBFS is -15.0
+Noisy file: XC253944.ogg, dBFS is -14.6
+Noisy file: XC253958.ogg, dBFS is -14.2
+Noisy file: XC182834.ogg, dBFS is -15.0
+Noisy file: XC368220.ogg, dBFS is -12.9
+Noisy file: XC379480.ogg, dBFS is -14.0
+Noisy file: XC385291.ogg, dBFS is -12.2
+Noisy file: XC421941.ogg, dBFS is -14.8
+Super noisy file: XC380693.ogg, dBFS is -10.8
+Super noisy file: XC384416.ogg, dBFS is -10.7
+Noisy file: XC478698.ogg, dBFS is -13.3
+Noisy file: XC583536.ogg, dBFS is -15.0
+Super noisy file: XC208974.ogg, dBFS is -11.8
+Noisy file: XC208976.ogg, dBFS is -14.4
+Noisy file: XC299600.ogg, dBFS is -12.0
+Noisy file: XC150063.ogg, dBFS is -14.6
+Super noisy file: XC152348.ogg, dBFS is -3.0
+Super noisy file: XC216531.ogg, dBFS is -11.9
+Noisy file: XC154030.ogg, dBFS is -13.6
+Noisy file: XC364361.ogg, dBFS is -14.7
+Super noisy file: XC8845.ogg, dBFS is -11.8
+Noisy file: XC131963.ogg, dBFS is -14.2
+Noisy file: XC412723.ogg, dBFS is -13.2
+Noisy file: XC412724.ogg, dBFS is -13.5
+Noisy file: XC412742.ogg, dBFS is -12.3
+Noisy file: XC412743.ogg, dBFS is -12.4
+Super noisy file: XC412745.ogg, dBFS is -9.2
+Super noisy file: XC149767.ogg, dBFS is -11.0
+Super noisy file: XC144280.ogg, dBFS is -11.5
+Super noisy file: XC339950.ogg, dBFS is -11.8
+Super noisy file: XC531307.ogg, dBFS is -11.2
+Noisy file: XC339952.ogg, dBFS is -14.4
+Noisy file: XC16891.ogg, dBFS is -13.9
+Noisy file: XC16892.ogg, dBFS is -13.6
+Super noisy file: XC254076.ogg, dBFS is -8.7
+Noisy file: XC489575.ogg, dBFS is -14.9
+Noisy file: XC405866.ogg, dBFS is -14.5
+Noisy file: XC353400.ogg, dBFS is -13.4
+Noisy file: XC385352.ogg, dBFS is -12.8
+Noisy file: XC385386.ogg, dBFS is -13.0
+Super noisy file: XC15200.ogg, dBFS is -7.1
+Noisy file: XC415590.ogg, dBFS is -12.6
+Noisy file: XC443972.ogg, dBFS is -14.1
+Noisy file: XC187982.ogg, dBFS is -13.4
+Noisy file: XC200393.ogg, dBFS is -13.9
+Super noisy file: XC301381.ogg, dBFS is -9.4
+Noisy file: XC117004.ogg, dBFS is -14.2
+Noisy file: XC613947.ogg, dBFS is -14.4
+Noisy file: XC418323.ogg, dBFS is -14.6
+Super noisy file: XC119226.ogg, dBFS is -11.2
+Noisy file: XC134520.ogg, dBFS is -14.6
+Noisy file: XC314626.ogg, dBFS is -14.4
+Super noisy file: XC372945.ogg, dBFS is -9.7
+Noisy file: XC278095.ogg, dBFS is -12.5
+Noisy file: XC278097.ogg, dBFS is -13.0
+Super noisy file: XC153857.ogg, dBFS is -8.3
+Noisy file: XC153861.ogg, dBFS is -12.7
+Super noisy file: XC365442.ogg, dBFS is -11.7
+Noisy file: XC387523.ogg, dBFS is -14.9
+Noisy file: XC405574.ogg, dBFS is -13.7
+Super noisy file: XC454493.ogg, dBFS is -9.6
+Noisy file: XC23519.ogg, dBFS is -12.4
+Noisy file: XC454494.ogg, dBFS is -13.8
+Super noisy file: XC23520.ogg, dBFS is -10.4
+Super noisy file: XC23521.ogg, dBFS is -11.1
+Noisy file: XC116063.ogg, dBFS is -12.2
+Noisy file: XC23523.ogg, dBFS is -13.0
+Super noisy file: XC116064.ogg, dBFS is -10.7
+Noisy file: XC23524.ogg, dBFS is -12.9
+Noisy file: XC493909.ogg, dBFS is -13.8
+Noisy file: XC352836.ogg, dBFS is -14.5
+Noisy file: XC374217.ogg, dBFS is -14.7
+Noisy file: XC272311.ogg, dBFS is -14.5
+Noisy file: XC272313.ogg, dBFS is -13.6
+Noisy file: XC272314.ogg, dBFS is -12.3
+Super noisy file: XC113783.ogg, dBFS is -8.4
+Noisy file: XC108600.ogg, dBFS is -14.6
+Noisy file: XC360684.ogg, dBFS is -14.1
+Noisy file: XC368580.ogg, dBFS is -14.3
+Noisy file: XC378635.ogg, dBFS is -13.4
+Noisy file: XC466037.ogg, dBFS is -13.4
+Noisy file: XC407102.ogg, dBFS is -12.9
+Noisy file: XC516222.ogg, dBFS is -14.3
+Noisy file: XC153864.ogg, dBFS is -13.1
+Noisy file: XC238883.ogg, dBFS is -14.9
+Noisy file: XC166790.ogg, dBFS is -13.1
+Noisy file: XC186585.ogg, dBFS is -14.9
+Noisy file: XC544458.ogg, dBFS is -12.8
+Super noisy file: XC152364.ogg, dBFS is -10.2
+Super noisy file: XC153636.ogg, dBFS is -11.5
+Super noisy file: XC603501.ogg, dBFS is -5.9
+Noisy file: XC603503.ogg, dBFS is -13.7
+Super noisy file: XC152766.ogg, dBFS is -10.0
+Noisy file: XC616813.ogg, dBFS is -14.4
+Noisy file: XC522605.ogg, dBFS is -13.0
+Noisy file: XC123362.ogg, dBFS is -14.8
+Noisy file: XC264266.ogg, dBFS is -12.8
+Noisy file: XC383483.ogg, dBFS is -12.8
+Noisy file: XC502569.ogg, dBFS is -12.1
+Noisy file: XC375503.ogg, dBFS is -14.7
+Super noisy file: XC553235.ogg, dBFS is -11.2
+Super noisy file: XC338873.ogg, dBFS is -7.2
+Super noisy file: XC358175.ogg, dBFS is -9.9
+Noisy file: XC119026.ogg, dBFS is -13.0
+Noisy file: XC155576.ogg, dBFS is -14.8
+Super noisy file: XC142314.ogg, dBFS is -7.7
+Super noisy file: XC618394.ogg, dBFS is -7.9
+Noisy file: XC11468.ogg, dBFS is -13.8
+Noisy file: XC19147.ogg, dBFS is -12.4
+Super noisy file: XC234671.ogg, dBFS is -9.8
+Noisy file: XC10407.ogg, dBFS is -13.8
+Noisy file: XC376475.ogg, dBFS is -13.6
+Super noisy file: XC405852.ogg, dBFS is -11.4
+Noisy file: XC128591.ogg, dBFS is -12.1
+Noisy file: XC24098.ogg, dBFS is -14.4
+Super noisy file: XC582153.ogg, dBFS is -10.8
+Noisy file: XC235949.ogg, dBFS is -14.8
+Noisy file: XC277527.ogg, dBFS is -14.9
+Super noisy file: XC264256.ogg, dBFS is -10.1
+Noisy file: XC63499.ogg, dBFS is -14.4
+Noisy file: XC454498.ogg, dBFS is -13.1
+Super noisy file: XC454499.ogg, dBFS is -11.4
+Super noisy file: XC376110.ogg, dBFS is -10.5
+Noisy file: XC170062.ogg, dBFS is -14.9
+Super noisy file: XC330071.ogg, dBFS is -6.9
+Noisy file: XC332160.ogg, dBFS is -12.5
+Noisy file: XC201255.ogg, dBFS is -13.1
+Noisy file: XC20538.ogg, dBFS is -15.0
+Super noisy file: XC265800.ogg, dBFS is -11.1
+Noisy file: XC145321.ogg, dBFS is -14.4
+Super noisy file: XC216250.ogg, dBFS is -11.8
+Noisy file: XC617208.ogg, dBFS is -12.8
+Super noisy file: XC619239.ogg, dBFS is -11.2
+Super noisy file: XC619240.ogg, dBFS is -11.7
+Noisy file: XC173212.ogg, dBFS is -14.6
+Noisy file: XC16970.ogg, dBFS is -14.4
+Noisy file: XC54854.ogg, dBFS is -14.7
+Noisy file: XC148726.ogg, dBFS is -13.8
+Super noisy file: XC202291.ogg, dBFS is -11.3
+Super noisy file: XC10563.ogg, dBFS is -12.0
+Noisy file: XC351960.ogg, dBFS is -14.1
+Super noisy file: XC145458.ogg, dBFS is -8.4
+Noisy file: XC325696.ogg, dBFS is -13.7
+Noisy file: XC418322.ogg, dBFS is -13.6
+Noisy file: XC118896.ogg, dBFS is -14.2
+Noisy file: XC185833.ogg, dBFS is -13.3
+Noisy file: XC388405.ogg, dBFS is -14.2
+Super noisy file: XC131754.ogg, dBFS is -11.8
+Noisy file: XC78186.ogg, dBFS is -14.1
+Noisy file: XC239858.ogg, dBFS is -14.5
+Super noisy file: XC375517.ogg, dBFS is -10.7
+Noisy file: XC375518.ogg, dBFS is -14.2
+Noisy file: XC375519.ogg, dBFS is -13.5
+Noisy file: XC384415.ogg, dBFS is -14.8
+Noisy file: XC116.ogg, dBFS is -14.9
+Super noisy file: XC491818.ogg, dBFS is -9.9
+Super noisy file: XC152723.ogg, dBFS is -8.0
+Super noisy file: XC31290.ogg, dBFS is -10.9
+Super noisy file: XC546880.ogg, dBFS is -11.1
+Super noisy file: XC394676.ogg, dBFS is -9.0
+Super noisy file: XC394677.ogg, dBFS is -10.1
+Noisy file: XC303082.ogg, dBFS is -12.6
+Super noisy file: XC394743.ogg, dBFS is -4.3
+Super noisy file: XC153624.ogg, dBFS is -9.9
+Noisy file: XC31323.ogg, dBFS is -14.7
+Noisy file: XC316989.ogg, dBFS is -12.5
+Noisy file: XC577017.ogg, dBFS is -13.3
+Noisy file: XC370503.ogg, dBFS is -13.8
+Noisy file: XC124958.ogg, dBFS is -14.2
+Super noisy file: XC116986.ogg, dBFS is -10.9
+Noisy file: XC208967.ogg, dBFS is -13.8
+Noisy file: XC9690.ogg, dBFS is -14.6
+Noisy file: XC9692.ogg, dBFS is -14.0
+Noisy file: XC147687.ogg, dBFS is -13.4
+Super noisy file: XC154187.ogg, dBFS is -9.4
+Noisy file: XC185978.ogg, dBFS is -13.9
+Noisy file: XC208973.ogg, dBFS is -13.8
+Noisy file: XC324125.ogg, dBFS is -14.5
+Noisy file: XC339981.ogg, dBFS is -13.8
+Noisy file: XC364030.ogg, dBFS is -13.3
+Noisy file: XC9693.ogg, dBFS is -14.8
+Super noisy file: XC10574.ogg, dBFS is -11.7
+Noisy file: XC112907.ogg, dBFS is -14.6
+Noisy file: XC112909.ogg, dBFS is -15.0
+Noisy file: XC134511.ogg, dBFS is -14.9
+Noisy file: XC278117.ogg, dBFS is -13.4
+Noisy file: XC367951.ogg, dBFS is -13.2
+Noisy file: XC574143.ogg, dBFS is -13.7
+Super noisy file: XC332142.ogg, dBFS is -9.5
+Noisy file: XC149214.ogg, dBFS is -14.2
+Noisy file: XC461562.ogg, dBFS is -14.9
+Noisy file: XC303165.ogg, dBFS is -14.4
+Noisy file: XC456268.ogg, dBFS is -14.3
+Noisy file: XC468132.ogg, dBFS is -12.9
+Super noisy file: XC16973.ogg, dBFS is -11.8
+Noisy file: XC353382.ogg, dBFS is -13.7
+Noisy file: XC432228.ogg, dBFS is -12.8
+Noisy file: XC16936.ogg, dBFS is -14.6
+Noisy file: XC415333.ogg, dBFS is -14.2
+Noisy file: XC283558.ogg, dBFS is -14.6
+Super noisy file: XC380317.ogg, dBFS is -8.3
+Super noisy file: XC386309.ogg, dBFS is -10.8
+Noisy file: XC458063.ogg, dBFS is -14.9
+Noisy file: XC403141.ogg, dBFS is -12.6
+Noisy file: XC403238.ogg, dBFS is -14.0
+Noisy file: XC403239.ogg, dBFS is -14.3
+Noisy file: XC403243.ogg, dBFS is -13.6
+Super noisy file: XC491641.ogg, dBFS is -9.5
+Noisy file: XC381087.ogg, dBFS is -12.7
+Super noisy file: XC308300.ogg, dBFS is -6.8
+Noisy file: XC145726.ogg, dBFS is -12.6
+Super noisy file: XC152564.ogg, dBFS is -10.4
+Super noisy file: XC343332.ogg, dBFS is -8.7
+Noisy file: XC354235.ogg, dBFS is -13.3
+Noisy file: XC113720.ogg, dBFS is -14.8
+Super noisy file: XC380822.ogg, dBFS is -11.0
+Super noisy file: XC411427.ogg, dBFS is -10.8
+Noisy file: XC378532.ogg, dBFS is -13.5
+Noisy file: XC248125.ogg, dBFS is -12.1
+Super noisy file: XC199065.ogg, dBFS is -10.1
+Noisy file: XC199066.ogg, dBFS is -12.7
+Noisy file: XC285313.ogg, dBFS is -14.2
+Noisy file: XC296531.ogg, dBFS is -13.8
+Noisy file: XC278085.ogg, dBFS is -14.4
+Noisy file: XC277818.ogg, dBFS is -14.6
+Noisy file: XC283695.ogg, dBFS is -12.4
+Noisy file: XC292089.ogg, dBFS is -14.7
+Noisy file: XC144475.ogg, dBFS is -14.9
+Noisy file: XC152548.ogg, dBFS is -13.4
+Noisy file: XC380281.ogg, dBFS is -12.5
+Super noisy file: XC380282.ogg, dBFS is -10.2
+Noisy file: XC381280.ogg, dBFS is -13.3
+Noisy file: XC9848.ogg, dBFS is -13.2
+Noisy file: XC380719.ogg, dBFS is -13.0
+Noisy file: XC16890.ogg, dBFS is -14.8
+Super noisy file: XC15211.ogg, dBFS is -4.8
+Noisy file: XC238181.ogg, dBFS is -14.1
+Noisy file: XC365440.ogg, dBFS is -13.6
+Noisy file: XC277142.ogg, dBFS is -14.8
+Noisy file: XC277143.ogg, dBFS is -14.8
+Noisy file: XC407148.ogg, dBFS is -12.4
+Noisy file: XC267658.ogg, dBFS is -14.8
+Noisy file: XC403242.ogg, dBFS is -14.1
+Noisy file: XC403244.ogg, dBFS is -13.2
+Super noisy file: XC403247.ogg, dBFS is -10.0
+Super noisy file: XC142209.ogg, dBFS is -10.5
+Noisy file: XC457174.ogg, dBFS is -13.9
+Noisy file: XC618219.ogg, dBFS is -14.8
+Super noisy file: XC152339.ogg, dBFS is -6.9
+Noisy file: XC11462.ogg, dBFS is -13.3
+Noisy file: XC169237.ogg, dBFS is -14.2
+Super noisy file: XC473710.ogg, dBFS is -3.0
+Noisy file: XC516225.ogg, dBFS is -14.9
+Super noisy file: XC180127.ogg, dBFS is -12.0
+Noisy file: XC144349.ogg, dBFS is -15.0
+Noisy file: XC405562.ogg, dBFS is -14.5
+Super noisy file: XC466326.ogg, dBFS is -11.4
+Super noisy file: XC370379.ogg, dBFS is -10.4
+Noisy file: XC176356.ogg, dBFS is -13.0
+Noisy file: XC330487.ogg, dBFS is -12.3
+Noisy file: XC507041.ogg, dBFS is -13.0
+Noisy file: XC198414.ogg, dBFS is -14.3
+Noisy file: XC289190.ogg, dBFS is -13.4
+Super noisy file: XC366955.ogg, dBFS is -6.3
+Noisy file: XC574142.ogg, dBFS is -13.2
+Super noisy file: XC278111.ogg, dBFS is -11.9
+Noisy file: XC386424.ogg, dBFS is -12.7
+Noisy file: XC433032.ogg, dBFS is -12.9
+Noisy file: XC461518.ogg, dBFS is -15.0
+Noisy file: XC16993.ogg, dBFS is -12.4
+Noisy file: XC63295.ogg, dBFS is -14.5
+Noisy file: XC424023.ogg, dBFS is -14.5
+Super noisy file: XC579290.ogg, dBFS is -10.3
+Noisy file: XC74703.ogg, dBFS is -13.9
+Noisy file: XC74704.ogg, dBFS is -13.5
+Noisy file: XC278093.ogg, dBFS is -14.0
+Noisy file: XC283551.ogg, dBFS is -14.2
+Noisy file: XC572258.ogg, dBFS is -14.9
+Noisy file: XC118867.ogg, dBFS is -13.4
+Noisy file: XC460008.ogg, dBFS is -14.9
+Noisy file: XC460013.ogg, dBFS is -13.3
+Super noisy file: XC252694.ogg, dBFS is -9.9
+Super noisy file: XC252702.ogg, dBFS is -10.1
+Super noisy file: XC252710.ogg, dBFS is -11.3
+Super noisy file: XC252713.ogg, dBFS is -9.8
+Noisy file: XC8841.ogg, dBFS is -12.4
+Noisy file: XC154791.ogg, dBFS is -14.3
+Noisy file: XC63361.ogg, dBFS is -14.7
+Super noisy file: XC181058.ogg, dBFS is -11.8
+Super noisy file: XC73443.ogg, dBFS is -10.5
+Noisy file: XC235014.ogg, dBFS is -13.4
+Noisy file: XC145678.ogg, dBFS is -14.9
+Super noisy file: XC213428.ogg, dBFS is -7.5
+Super noisy file: XC234663.ogg, dBFS is -11.1
+Super noisy file: XC20508.ogg, dBFS is -5.7
+Noisy file: XC145702.ogg, dBFS is -14.2
+Noisy file: XC493065.ogg, dBFS is -13.6
+Super noisy file: XC312398.ogg, dBFS is -11.2
+Super noisy file: XC331467.ogg, dBFS is -9.4
+Super noisy file: XC580988.ogg, dBFS is -8.9
+Noisy file: XC380773.ogg, dBFS is -14.8
+Super noisy file: XC145613.ogg, dBFS is -9.8
+Noisy file: XC457198.ogg, dBFS is -13.4
+Noisy file: XC253922.ogg, dBFS is -14.0
+Super noisy file: XC253928.ogg, dBFS is -7.1
+Noisy file: XC253931.ogg, dBFS is -14.8
+Noisy file: XC526477.ogg, dBFS is -14.4
+Noisy file: XC119207.ogg, dBFS is -12.8
+Super noisy file: XC331472.ogg, dBFS is -9.2
+Noisy file: XC145572.ogg, dBFS is -14.3
+Noisy file: XC17012.ogg, dBFS is -13.7
+Noisy file: XC10573.ogg, dBFS is -12.7
+Super noisy file: XC216715.ogg, dBFS is -5.7
+Super noisy file: XC216716.ogg, dBFS is -8.9
+Super noisy file: XC253885.ogg, dBFS is -12.0
+Noisy file: XC16928.ogg, dBFS is -15.0
+Noisy file: XC581027.ogg, dBFS is -14.6
+Super noisy file: XC154175.ogg, dBFS is -8.4
+Super noisy file: XC337827.ogg, dBFS is -9.9
+Noisy file: XC337828.ogg, dBFS is -14.2
+Super noisy file: XC337829.ogg, dBFS is -7.8
+Noisy file: XC337830.ogg, dBFS is -12.6
+Super noisy file: XC129297.ogg, dBFS is -7.0
+Noisy file: XC137699.ogg, dBFS is -13.0
+Super noisy file: XC153990.ogg, dBFS is -8.9
+Super noisy file: XC144474.ogg, dBFS is -10.8
+Noisy file: XC294556.ogg, dBFS is -13.8
+Noisy file: XC359322.ogg, dBFS is -13.7
+Noisy file: XC182801.ogg, dBFS is -14.3
+Noisy file: XC154101.ogg, dBFS is -15.0
+Noisy file: XC435952.ogg, dBFS is -13.9
+Noisy file: XC436833.ogg, dBFS is -13.9
+Noisy file: XC493619.ogg, dBFS is -14.2
+Noisy file: XC194635.ogg, dBFS is -14.4
+Noisy file: XC437368.ogg, dBFS is -14.4
+Super noisy file: XC404619.ogg, dBFS is -6.4
+Noisy file: XC211737.ogg, dBFS is -13.2
+Noisy file: XC144398.ogg, dBFS is -14.1
+Noisy file: XC332145.ogg, dBFS is -13.5
+Noisy file: XC191965.ogg, dBFS is -12.6
+Noisy file: XC388413.ogg, dBFS is -14.3
+Noisy file: XC118853.ogg, dBFS is -13.9
+Noisy file: XC350069.ogg, dBFS is -14.3
+Noisy file: XC617252.ogg, dBFS is -13.5
+Noisy file: XC145555.ogg, dBFS is -13.3
+Noisy file: XC387567.ogg, dBFS is -14.9
+Super noisy file: XC394675.ogg, dBFS is -10.9
+Super noisy file: XC116958.ogg, dBFS is -11.1
+Noisy file: XC403245.ogg, dBFS is -12.7
+Noisy file: XC439191.ogg, dBFS is -13.9
+Super noisy file: XC254787.ogg, dBFS is -11.7
+Noisy file: XC31018.ogg, dBFS is -13.1
+Noisy file: XC549927.ogg, dBFS is -14.5
+Super noisy file: XC382459.ogg, dBFS is -8.8
+Super noisy file: XC382483.ogg, dBFS is -12.0
+Super noisy file: XC119210.ogg, dBFS is -11.6
+Noisy file: XC8908.ogg, dBFS is -13.5
+Noisy file: XC581069.ogg, dBFS is -12.2
+Super noisy file: XC483032.ogg, dBFS is -9.4
+Noisy file: XC368636.ogg, dBFS is -12.1
+Noisy file: XC288053.ogg, dBFS is -13.9
+Noisy file: XC295762.ogg, dBFS is -14.5
+Noisy file: XC534264.ogg, dBFS is -14.9
+Super noisy file: XC113880.ogg, dBFS is -11.7
+Noisy file: XC145468.ogg, dBFS is -12.3
+Super noisy file: XC129300.ogg, dBFS is -8.0
+Noisy file: XC154099.ogg, dBFS is -14.5
+Super noisy file: XC142320.ogg, dBFS is -11.7
+Noisy file: XC213525.ogg, dBFS is -13.8
+Noisy file: XC443820.ogg, dBFS is -13.7
+Noisy file: XC292144.ogg, dBFS is -14.5
+Noisy file: XC16889.ogg, dBFS is -12.2
+Noisy file: XC154035.ogg, dBFS is -13.8
+Noisy file: XC476387.ogg, dBFS is -13.0
+Noisy file: XC376094.ogg, dBFS is -12.7
+Noisy file: XC405568.ogg, dBFS is -14.0
+Super noisy file: XC185490.ogg, dBFS is -8.9
+Noisy file: XC365439.ogg, dBFS is -14.8
+Noisy file: XC254792.ogg, dBFS is -14.9
+Noisy file: XC63962.ogg, dBFS is -14.3
+Super noisy file: XC254793.ogg, dBFS is -9.0
+Noisy file: XC63963.ogg, dBFS is -14.0
+Noisy file: XC216259.ogg, dBFS is -13.3
+Noisy file: XC216266.ogg, dBFS is -13.3
+Noisy file: XC215914.ogg, dBFS is -13.3
+Noisy file: XC395008.ogg, dBFS is -13.9
+[{'silent_files': [], 'super_noisy_files': ['XC351209.ogg', 'XC153635.ogg', 'XC215900.ogg', 'XC215915.ogg', 'XC215934.ogg', 'XC216052.ogg', 'XC216068.ogg', 'XC216207.ogg', 'XC216404.ogg', 'XC216406.ogg', 'XC232634.ogg', 'XC177595.ogg', 'XC154451.ogg', 'XC233405.ogg', 'XC233406.ogg', 'XC152348.ogg', 'XC365442.ogg', 'XC330071.ogg', 'XC343332.ogg', 'XC380822.ogg', 'XC370379.ogg', 'XC73443.ogg', 'XC145613.ogg', 'XC253928.ogg', 'XC337827.ogg', 'XC337829.ogg', 'XC404619.ogg', 'XC119210.ogg'], 'noisy_files': ['XC342677.ogg', 'XC331588.ogg', 'XC152767.ogg', 'XC215893.ogg', 'XC215902.ogg', 'XC215912.ogg', 'XC215932.ogg', 'XC215935.ogg', 'XC216048.ogg', 'XC216411.ogg', 'XC153866.ogg', 'XC282248.ogg', 'XC283549.ogg', 'XC150063.ogg', 'XC16891.ogg', 'XC16892.ogg', 'XC314626.ogg', 'XC544458.ogg', 'XC128591.ogg', 'XC332160.ogg', 'XC54854.ogg', 'XC316989.ogg', 'XC574143.ogg', 'XC354235.ogg', 'XC267658.ogg', 'XC433032.ogg', 'XC145678.ogg', 'XC493065.ogg', 'XC253922.ogg', 'XC253931.ogg', 'XC10573.ogg', 'XC337828.ogg', 'XC337830.ogg', 'XC359322.ogg', 'XC118853.ogg', 'XC476387.ogg'], 'quiet_files': ['XC153315.ogg', 'XC535041.ogg', 'XC372211.ogg', 'XC535260.ogg', 'XC536417.ogg', 'XC538087.ogg', 'XC551196.ogg', 'XC551981.ogg', 'XC553534.ogg']}, {'silent_files': ['XC603890.ogg'], 'super_noisy_files': ['XC215880.ogg', 'XC215883.ogg', 'XC215885.ogg', 'XC215886.ogg', 'XC215887.ogg', 'XC215917.ogg', 'XC216237.ogg', 'XC209879.ogg', 'XC216422.ogg', 'XC469623.ogg', 'XC205289.ogg', 'XC119226.ogg', 'XC454493.ogg', 'XC405852.ogg', 'XC582153.ogg', 'XC16973.ogg', 'XC152339.ogg', 'XC473710.ogg', 'XC153990.ogg'], 'noisy_files': ['XC113408.ogg', 'XC216235.ogg', 'XC216238.ogg', 'XC282798.ogg', 'XC282799.ogg', 'XC209878.ogg', 'XC213426.ogg', 'XC557100.ogg', 'XC277917.ogg', 'XC185847.ogg', 'XC457203.ogg', 'XC461439.ogg', 'XC182834.ogg', 'XC385291.ogg', 'XC421941.ogg', 'XC154030.ogg', 'XC405866.ogg', 'XC454494.ogg', 'XC238883.ogg', 'XC19147.ogg', 'XC148726.ogg', 'XC325696.ogg', 'XC418322.ogg', 'XC147687.ogg', 'XC113720.ogg', 'XC248125.ogg', 'XC380719.ogg', 'XC516225.ogg', 'XC278093.ogg', 'XC283551.ogg', 'XC137699.ogg', 'XC437368.ogg', 'XC581069.ogg', 'XC365439.ogg'], 'quiet_files': ['XC564846.ogg', 'XC572833.ogg', 'XC535180.ogg', 'XC535195.ogg', 'XC535196.ogg', 'XC326247.ogg', 'XC304675.ogg', 'XC360236.ogg']}, {'silent_files': [], 'super_noisy_files': ['XC153859.ogg', 'XC144280.ogg', 'XC116064.ogg', 'XC603501.ogg', 'XC234671.ogg', 'XC216250.ogg', 'XC312398.ogg', 'XC331467.ogg', 'XC142320.ogg'], 'noisy_files': ['XC205284.ogg', 'XC283536.ogg', 'XC168752.ogg', 'XC343255.ogg', 'XC9881.ogg', 'XC112990.ogg', 'XC123773.ogg', 'XC154060.ogg', 'XC282849.ogg', 'XC613986.ogg', 'XC116063.ogg', 'XC360684.ogg', 'XC603503.ogg', 'XC616813.ogg', 'XC9693.ogg', 'XC278117.ogg', 'XC367951.ogg', 'XC149214.ogg', 'XC283558.ogg', 'XC365440.ogg', 'XC11462.ogg', 'XC169237.ogg', 'XC424023.ogg', 'XC63361.ogg', 'XC380773.ogg', 'XC63962.ogg', 'XC63963.ogg'], 'quiet_files': ['XC358508.ogg', 'XC345898.ogg', 'XC330469.ogg', 'XC256082.ogg']}, {'silent_files': ['XC579430.ogg', 'XC535073.ogg', 'XC535091.ogg'], 'super_noisy_files': ['XC112903.ogg', 'XC283284.ogg', 'XC340052.ogg', 'XC107.ogg', 'XC581716.ogg', 'XC171042.ogg', 'XC376110.ogg'], 'noisy_files': ['XC154089.ogg', 'XC9686.ogg', 'XC551035.ogg', 'XC551038.ogg', 'XC551050.ogg', 'XC11212.ogg', 'XC435941.ogg', 'XC433498.ogg', 'XC11501.ogg', 'XC403164.ogg', 'XC16906.ogg', 'XC432766.ogg', 'XC144472.ogg', 'XC145933.ogg', 'XC251265.ogg', 'XC167564.ogg', 'XC238681.ogg', 'XC351960.ogg', 'XC185833.ogg', 'XC239858.ogg', 'XC277818.ogg', 'XC283695.ogg', 'XC292089.ogg', 'XC407148.ogg', 'XC176356.ogg', 'XC461518.ogg', 'XC16928.ogg', 'XC31018.ogg', 'XC368636.ogg', 'XC215914.ogg'], 'quiet_files': ['XC488506.ogg', 'XC535054.ogg', 'XC535057.ogg', 'XC535078.ogg', 'XC535079.ogg', 'XC535080.ogg', 'XC535086.ogg', 'XC535088.ogg', 'XC535089.ogg', 'XC535090.ogg', 'XC330636.ogg', 'XC457490.ogg', 'XC291935.ogg', 'XC314041.ogg', 'XC356012.ogg', 'XC549227.ogg', 'XC305164.ogg', 'XC372263.ogg']}, {'silent_files': ['XC469985.ogg', 'XC535306.ogg'], 'super_noisy_files': ['XC189671.ogg', 'XC433364.ogg', 'XC154104.ogg', 'XC509561.ogg', 'XC361205.ogg', 'XC531307.ogg', 'XC338873.ogg', 'XC358175.ogg', 'XC411427.ogg', 'XC142209.ogg', 'XC579290.ogg', 'XC20508.ogg', 'XC129297.ogg', 'XC144474.ogg', 'XC394675.ogg'], 'noisy_files': ['XC282627.ogg', 'XC324031.ogg', 'XC420573.ogg', 'XC507340.ogg', 'XC559917.ogg', 'XC518685.ogg', 'XC118597.ogg', 'XC145495.ogg', 'XC367905.ogg', 'XC378362.ogg', 'XC213564.ogg', 'XC553236.ogg', 'XC253937.ogg', 'XC253944.ogg', 'XC253958.ogg', 'XC387523.ogg', 'XC405574.ogg', 'XC352836.ogg', 'XC374217.ogg', 'XC108600.ogg', 'XC166790.ogg', 'XC186585.ogg', 'XC63499.ogg', 'XC201255.ogg', 'XC20538.ogg', 'XC134511.ogg', 'XC461562.ogg', 'XC9848.ogg', 'XC238181.ogg', 'XC74703.ogg', 'XC74704.ogg', 'XC460008.ogg', 'XC460013.ogg', 'XC457198.ogg', 'XC119207.ogg', 'XC17012.ogg', 'XC154101.ogg', 'XC194635.ogg', 'XC211737.ogg', 'XC292144.ogg'], 'quiet_files': ['XC504994.ogg', 'XC544809.ogg', 'XC431962.ogg', 'XC535303.ogg', 'XC535309.ogg', 'XC137599.ogg', 'XC182574.ogg', 'XC182575.ogg']}, {'silent_files': ['XC590621.ogg'], 'super_noisy_files': ['XC23518.ogg', 'XC156403.ogg', 'XC372645.ogg', 'XC331634.ogg', 'XC430563.ogg', 'XC412745.ogg', 'XC546880.ogg', 'XC116986.ogg', 'XC154187.ogg', 'XC491641.ogg', 'XC278111.ogg', 'XC181058.ogg', 'XC216715.ogg', 'XC216716.ogg', 'XC253885.ogg'], 'noisy_files': ['XC437631.ogg', 'XC192238.ogg', 'XC287593.ogg', 'XC301669.ogg', 'XC520429.ogg', 'XC372647.ogg', 'XC128603.ogg', 'XC331633.ogg', 'XC339944.ogg', 'XC376444.ogg', 'XC376445.ogg', 'XC277524.ogg', 'XC277525.ogg', 'XC289245.ogg', 'XC423714.ogg', 'XC432455.ogg', 'XC506644.ogg', 'XC299600.ogg', 'XC364361.ogg', 'XC412723.ogg', 'XC412724.ogg', 'XC412742.ogg', 'XC412743.ogg', 'XC375503.ogg', 'XC145321.ogg', 'XC577017.ogg', 'XC432228.ogg', 'XC458063.ogg', 'XC278085.ogg', 'XC618219.ogg', 'XC572258.ogg', 'XC8841.ogg', 'XC154791.ogg', 'XC235014.ogg', 'XC350069.ogg', 'XC387567.ogg', 'XC403245.ogg', 'XC439191.ogg', 'XC549927.ogg', 'XC8908.ogg', 'XC376094.ogg', 'XC216259.ogg', 'XC216266.ogg'], 'quiet_files': ['XC349955.ogg', 'XC457489.ogg', 'XC313916.ogg', 'XC314242.ogg', 'XC181332.ogg', 'XC518412.ogg']}, {'silent_files': ['XC141034.ogg'], 'super_noisy_files': ['XC354095.ogg', 'XC297964.ogg', 'XC11760.ogg', 'XC301381.ogg', 'XC153857.ogg', 'XC23520.ogg', 'XC23521.ogg', 'XC618394.ogg', 'XC264256.ogg', 'XC180127.ogg', 'XC466326.ogg', 'XC213428.ogg', 'XC234663.ogg', 'XC483032.ogg', 'XC185490.ogg'], 'noisy_files': ['XC285208.ogg', 'XC154448.ogg', 'XC166644.ogg', 'XC204093.ogg', 'XC238226.ogg', 'XC266350.ogg', 'XC297973.ogg', 'XC614735.ogg', 'XC598073.ogg', 'XC478698.ogg', 'XC418323.ogg', 'XC153861.ogg', 'XC23519.ogg', 'XC23523.ogg', 'XC23524.ogg', 'XC368580.ogg', 'XC378635.ogg', 'XC407102.ogg', 'XC522605.ogg', 'XC11468.ogg', 'XC235949.ogg', 'XC116.ogg', 'XC303082.ogg', 'XC124958.ogg', 'XC208967.ogg', 'XC208973.ogg', 'XC339981.ogg', 'XC364030.ogg', 'XC16936.ogg', 'XC381087.ogg', 'XC507041.ogg', 'XC574142.ogg', 'XC16993.ogg', 'XC534264.ogg'], 'quiet_files': ['XC267510.ogg', 'XC535153.ogg', 'XC263153.ogg', 'XC536604.ogg', 'XC260596.ogg', 'XC540337.ogg', 'XC567735.ogg', 'XC286524.ogg', 'XC389891.ogg']}, {'silent_files': [], 'super_noisy_files': ['XC152416.ogg', 'XC382465.ogg', 'XC6089.ogg', 'XC380693.ogg', 'XC384416.ogg', 'XC254076.ogg', 'XC372945.ogg', 'XC152364.ogg', 'XC153636.ogg', 'XC142314.ogg', 'XC454499.ogg', 'XC265800.ogg', 'XC10563.ogg', 'XC145458.ogg', 'XC31290.ogg', 'XC394676.ogg', 'XC394677.ogg', 'XC394743.ogg', 'XC332142.ogg', 'XC308300.ogg', 'XC252694.ogg', 'XC252702.ogg', 'XC252710.ogg', 'XC252713.ogg', 'XC154175.ogg'], 'noisy_files': ['XC372023.ogg', 'XC357617.ogg', 'XC283702.ogg', 'XC394893.ogg', 'XC404832.ogg', 'XC246803.ogg', 'XC243.ogg', 'XC272311.ogg', 'XC272313.ogg', 'XC272314.ogg', 'XC466037.ogg', 'XC264266.ogg', 'XC119026.ogg', 'XC376475.ogg', 'XC454498.ogg', 'XC78186.ogg', 'XC456268.ogg', 'XC144349.ogg', 'XC330487.ogg', 'XC63295.ogg', 'XC145702.ogg', 'XC144398.ogg', 'XC191965.ogg', 'XC288053.ogg', 'XC295762.ogg', 'XC443820.ogg'], 'quiet_files': ['XC564372.ogg', 'XC433333.ogg', 'XC535151.ogg', 'XC488399.ogg', 'XC323895.ogg', 'XC295936.ogg', 'XC360237.ogg', 'XC431935.ogg']}, {'silent_files': ['XC208852.ogg', 'XC208883.ogg', 'XC284190.ogg'], 'super_noisy_files': ['XC347690.ogg', 'XC154793.ogg', 'XC16949.ogg', 'XC181943.ogg', 'XC253900.ogg', 'XC253907.ogg', 'XC329623.ogg', 'XC396190.ogg', 'XC208974.ogg', 'XC339950.ogg', 'XC113783.ogg', 'XC152564.ogg', 'XC380282.ogg', 'XC382459.ogg', 'XC382483.ogg', 'XC113880.ogg'], 'noisy_files': ['XC209698.ogg', 'XC189399.ogg', 'XC31162.ogg', 'XC149429.ogg', 'XC16952.ogg', 'XC176361.ogg', 'XC253891.ogg', 'XC253895.ogg', 'XC307946.ogg', 'XC190806.ogg', 'XC396189.ogg', 'XC513208.ogg', 'XC208976.ogg', 'XC339952.ogg', 'XC443972.ogg', 'XC613947.ogg', 'XC134520.ogg', 'XC278095.ogg', 'XC278097.ogg', 'XC123362.ogg', 'XC502569.ogg', 'XC10407.ogg', 'XC24098.ogg', 'XC388405.ogg', 'XC9690.ogg', 'XC9692.ogg', 'XC185978.ogg', 'XC468132.ogg', 'XC145726.ogg', 'XC296531.ogg', 'XC380281.ogg', 'XC381280.ogg', 'XC386424.ogg', 'XC526477.ogg', 'XC581027.ogg', 'XC294556.ogg', 'XC435952.ogg', 'XC436833.ogg', 'XC493619.ogg', 'XC332145.ogg', 'XC388413.ogg', 'XC145555.ogg', 'XC145468.ogg'], 'quiet_files': ['XC202025.ogg', 'XC526706.ogg', 'XC439536.ogg', 'XC535204.ogg', 'XC186856.ogg', 'XC294960.ogg', 'XC386080.ogg']}, {'silent_files': [], 'super_noisy_files': ['XC484923.ogg', 'XC185999.ogg', 'XC186004.ogg', 'XC583496.ogg', 'XC499705.ogg', 'XC493912.ogg', 'XC15200.ogg', 'XC152766.ogg', 'XC131754.ogg', 'XC375517.ogg', 'XC491818.ogg', 'XC153624.ogg', 'XC331472.ogg', 'XC129300.ogg'], 'noisy_files': ['XC559690.ogg', 'XC154573.ogg', 'XC154785.ogg', 'XC154798.ogg', 'XC155354.ogg', 'XC31284.ogg', 'XC554811.ogg', 'XC118.ogg', 'XC309193.ogg', 'XC435948.ogg', 'XC144860.ogg', 'XC389658.ogg', 'XC277387.ogg', 'XC494293.ogg', 'XC144626.ogg', 'XC368220.ogg', 'XC379480.ogg', 'XC187982.ogg', 'XC200393.ogg', 'XC118896.ogg', 'XC375518.ogg', 'XC375519.ogg', 'XC384415.ogg', 'XC31323.ogg', 'XC378532.ogg', 'XC144475.ogg', 'XC152548.ogg', 'XC182801.ogg', 'XC154099.ogg', 'XC213525.ogg'], 'quiet_files': ['XC535160.ogg', 'XC297670.ogg', 'XC314245.ogg']}, {'silent_files': ['XC534949.ogg'], 'super_noisy_files': ['XC254771.ogg', 'XC152438.ogg', 'XC153628.ogg', 'XC154444.ogg', 'XC205686.ogg', 'XC405871.ogg', 'XC405873.ogg', 'XC8845.ogg', 'XC149767.ogg', 'XC553235.ogg', 'XC619239.ogg', 'XC619240.ogg', 'XC10574.ogg', 'XC380317.ogg', 'XC386309.ogg', 'XC15211.ogg', 'XC403247.ogg', 'XC580988.ogg', 'XC116958.ogg'], 'noisy_files': ['XC437099.ogg', 'XC292088.ogg', 'XC475292.ogg', 'XC144874.ogg', 'XC118592.ogg', 'XC182799.ogg', 'XC131963.ogg', 'XC353400.ogg', 'XC385352.ogg', 'XC385386.ogg', 'XC415590.ogg', 'XC117004.ogg', 'XC493909.ogg', 'XC383483.ogg', 'XC277527.ogg', 'XC617208.ogg', 'XC173212.ogg', 'XC370503.ogg', 'XC112907.ogg', 'XC112909.ogg', 'XC303165.ogg', 'XC403141.ogg', 'XC403238.ogg', 'XC403239.ogg', 'XC403243.ogg', 'XC277142.ogg', 'XC277143.ogg', 'XC403242.ogg', 'XC403244.ogg', 'XC457174.ogg', 'XC198414.ogg', 'XC617252.ogg', 'XC16889.ogg', 'XC395008.ogg'], 'quiet_files': ['XC349803.ogg', 'XC541381.ogg', 'XC358509.ogg']}, {'silent_files': ['XC282102.ogg', 'XC580627.ogg', 'XC439459.ogg', 'XC141187.ogg', 'XC154485.ogg'], 'super_noisy_files': ['XC379655.ogg', 'XC137808.ogg', 'XC548387.ogg', 'XC457559.ogg', 'XC216531.ogg', 'XC202291.ogg', 'XC152723.ogg', 'XC199065.ogg', 'XC366955.ogg', 'XC254787.ogg', 'XC254793.ogg'], 'noisy_files': ['XC154103.ogg', 'XC126398.ogg', 'XC334801.ogg', 'XC334803.ogg', 'XC414757.ogg', 'XC476093.ogg', 'XC549071.ogg', 'XC376477.ogg', 'XC457555.ogg', 'XC457560.ogg', 'XC457561.ogg', 'XC457562.ogg', 'XC313905.ogg', 'XC315211.ogg', 'XC583536.ogg', 'XC489575.ogg', 'XC516222.ogg', 'XC153864.ogg', 'XC155576.ogg', 'XC170062.ogg', 'XC16970.ogg', 'XC324125.ogg', 'XC353382.ogg', 'XC415333.ogg', 'XC199066.ogg', 'XC285313.ogg', 'XC16890.ogg', 'XC405562.ogg', 'XC289190.ogg', 'XC118867.ogg', 'XC145572.ogg', 'XC154035.ogg', 'XC405568.ogg', 'XC254792.ogg'], 'quiet_files': ['XC395622.ogg', 'XC153278.ogg', 'XC535268.ogg', 'XC535271.ogg', 'XC501496.ogg', 'XC551690.ogg', 'XC581305.ogg', 'XC185594.ogg', 'XC535046.ogg', 'XC535047.ogg', 'XC535048.ogg', 'XC255363.ogg', 'XC186851.ogg', 'XC244402.ogg']}]
+
